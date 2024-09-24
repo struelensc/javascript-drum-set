@@ -10,6 +10,8 @@ This project is a simple **JavaScript Drum Set** that allows users to play diffe
 - **Visual feedback**: Keys will light up and animate when pressed, providing a visual indication of which sound is being played.
 - **Responsive sound playing**: Each sound can be played repeatedly in quick succession, as the audio resets before playing.
 
+![Photo of JavaScript Drum Set application](photo-sample.png)
+
 ## How to Use
 
 1. Open the HTML file in a browser.
